@@ -198,4 +198,4 @@ $roomStatus->update([
     'date' => Carbon::now(),
 ]);
 
-link:UAS_YakubMasArbiStpl_PRAK.pemogramanwebdasar_D1_YakubMasArbiStpl_2209010154_ketersedian_kamar.txt
+link:https://github.com/Arbihurateam/UAS_YakubMasArbiStpl_PRAK.pemogramanwebdasar_D1_YakubMasArbiStpl_2209010154_ketersedian_kamar.txt/blob/main/UAS_YakubMasArbiSitompul_PRAK.pemogramanwebdasar_D1_YakubMasArbiSitompul_2209010154_ketersedian_kamar.txt
